@@ -14,7 +14,7 @@ export class AppComponent {
   };
   submitForm() {
 
-    console.log(this.model)
+    console.log(this.model);
 
   }
 }
